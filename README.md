@@ -58,8 +58,8 @@ I’m a passionate software engineer with a focus on backend development. My exp
 
 ## 🎯 What I’m currently working on
 - Developing an event-driven microservice architecture using Spring Boot and Kafka.
-- Exploring container orchestration using Kubernetes on AWS.
-- Building a real-time data pipeline with Apache Kafka and Redis.
+- Implementing Solidity in real world project
+- Learning RUST
 
 ## 📫 Let's Connect
 - **Email:** [agananojoshua001@gmail.com]
