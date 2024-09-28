@@ -37,8 +37,8 @@ I’m a passionate software engineer with a focus on backend development. My exp
 
 ### Cloud & DevOps
 - **Cloud Platforms:** AWS, Azure
-- **AWS Services:** EC2, S3, Lambda, RDS, DynamoDB, API Gateway, IAM
-- **Azure Services:** Azure App Service, Azure Functions, Azure Cosmos DB, Azure Kubernetes Service (AKS)
+- **AWS Services:** EC2, IAM
+- **Azure Services:** Azure App Service, Azure Functions, Azure SQL DB, Azure Kubernetes Service (AKS)
 - **CI/CD:** Jenkins, GitHub Actions, CircleCI
 - **Containerization & Orchestration:** Docker, Kubernetes
 
@@ -48,13 +48,13 @@ I’m a passionate software engineer with a focus on backend development. My exp
 - **Collaboration:** Slack, Microsoft Teams, Zoom
 
 
-## 🌍 Cloud & DevOps Experience
+<!--## 🌍 Cloud & DevOps Experience
 
 - **AWS:** I've architected and deployed several microservices using AWS technologies like Lambda, EC2, S3, and RDS. I’m familiar with designing scalable architectures, and implementing security best practices with IAM and CloudFront.
   
 - **Azure:** Hands-on experience with deploying applications using Azure App Services and integrating Azure Functions. Managed Azure Cosmos DB for highly available, scalable NoSQL data storage.
 
-- **CI/CD Pipelines:** I have built fully automated pipelines using Jenkins, GitHub Actions, and CircleCI, from source code management to production deployment.
+- **CI/CD Pipelines:** I have built fully automated pipelines using Jenkins, GitHub Actions, and CircleCI, from source code management to production deployment.-->
 
 ## 🎯 What I’m currently working on
 - Developing an event-driven microservice architecture using Spring Boot and Kafka.
