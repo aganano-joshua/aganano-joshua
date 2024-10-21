@@ -24,8 +24,8 @@ I’m a passionate software engineer with a focus on backend development. My exp
 ## 🚀 Skills & Technologies
 
 ### Backend Development
-- **Languages:** Java, JavaScript
-- **Frameworks:** Spring, Node.JS
+- **Languages:** Java, JavaScript, Rust, Solidity, Python
+- **Frameworks:** Spring, Node.JS, Flask
 - **API Design:** REST, GraphQL
 - **Database Technologies:** MySQL, PostgreSQL, MongoDB, Redis, Cassandra
 - **Messaging:** Kafka, RabbitMQ
