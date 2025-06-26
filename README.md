@@ -63,7 +63,7 @@ I’m a passionate software engineer with a focus on backend development. My exp
 
 ## 📫 Let's Connect
 - **Email:** [agananojoshua001@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/aganano-joshua-520968252/].
+- **LinkedIn:** [https://www.linkedin.com/in/joshua-aganano-b4aa2435a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
 - **GitHub:** [https://github.com/aganano-joshua]
 
 ---
