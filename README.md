@@ -1,72 +1,150 @@
-<!-- ## Hi there 👋 -->
+# 👋 Hi, I'm Aganano Joshua Jesutofunmi  
 
-<!--
-**aganano-joshua/aganano-joshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack • Mobile • AI Engineer  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Aganano Joshua Jesutofunmi 👋
-
-### Software Engineer | Backend Developer | Cloud Enthusiast
-
-I’m a passionate software engineer with a focus on backend development. My expertise spans across Java and Spring ecosystems, but I am also proficient in front-end technologies like React and React Native. I have experience building and scaling web applications, deploying to cloud platforms like AWS and Azure, and implementing DevOps best practices.
-
-## 🚀 Skills & Technologies
-
-### Backend Development
-- **Languages:** Java, JavaScript, Rust, Solidity, Python
-- **Frameworks:** Spring, Node.JS, Flask
-- **API Design:** REST, GraphQL
-- **Database Technologies:** MySQL, PostgreSQL, MongoDB, Redis, Cassandra
-- **Messaging:** Kafka, RabbitMQ
-- **Testing:** JUnit, Mockito, TestNG, Postman
-
-### Frontend Development
-- **Languages:** JavaScript, TypeScript
-- **Frameworks & Libraries:** React, React Native, Redux
-
-### Cloud & DevOps
-- **Cloud Platforms:** AWS, Azure
-- **AWS Services:** EC2, IAM
-- **Azure Services:** Azure App Service, Azure Functions, Azure SQL DB, Azure Kubernetes Service (AKS)
-- **CI/CD:** Jenkins, GitHub Actions, CircleCI
-- **Containerization & Orchestration:** Docker, Kubernetes
-
-### Other Tools & Technologies
-- **Version Control:** Git, GitHub, GitLab
-- **Build Tools:** Maven, Gradle
-- **Collaboration:** Slack, Microsoft Teams, Zoom
-
-
-<!--## 🌍 Cloud & DevOps Experience
-
-- **AWS:** I've architected and deployed several microservices using AWS technologies like Lambda, EC2, S3, and RDS. I’m familiar with designing scalable architectures, and implementing security best practices with IAM and CloudFront.
-  
-- **Azure:** Hands-on experience with deploying applications using Azure App Services and integrating Azure Functions. Managed Azure Cosmos DB for highly available, scalable NoSQL data storage.
-
-- **CI/CD Pipelines:** I have built fully automated pipelines using Jenkins, GitHub Actions, and CircleCI, from source code management to production deployment.-->
-
-## 🎯 What I’m currently working on
-- Developing an event-driven microservice architecture using Spring Boot and Kafka.
-- Implementing Solidity in real world project
-- Learning RUST
-
-## 📫 Let's Connect
-- **Email:** [agananojoshua001@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/joshua-aganano-b4aa2435a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
-- **GitHub:** [https://github.com/aganano-joshua]
+<p align="center">
+  <!-- Replace with your own image -->
+  <img src="https://via.placeholder.com/150" width="150" style="border-radius:50%" alt="profile"/>
+</p>
 
 ---
 
-🌱 **"Continuous learning and adaptability are at the core of my engineering philosophy."**
+## 🧠 About Me  
 
+I build **scalable systems, mobile apps, and intelligent solutions**.  
+
+Started deep in **backend engineering**, now operating across:  
+- ⚙️ Backend systems  
+- 🌐 Fullstack web apps  
+- 📱 Mobile development  
+- 🤖 AI/ML systems  
+
+I don’t just write code — I design systems that **scale, perform, and solve real problems**.
+
+---
+
+## ⚡ Tech Stack  
+
+### 🧩 Core Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,python" />
+</p>
+
+---
+
+### 🏗️ Backend & APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,firebase,flask" />
+</p>
+
+- Spring Boot (Microservices, Event-driven systems)  
+- Node.js (Real-time systems, APIs)  
+- REST & GraphQL  
+
+---
+
+### 🌐 Frontend & Mobile  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,ts" />
+</p>
+
+- React (Web apps)  
+- React Native (Mobile apps)  
+- State management (Redux, Context API)  
+
+---
+
+### 🤖 AI / ML  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- TensorFlow  
+- Data processing & model integration  
+- Real-time inference systems  
+
+---
+
+### 🛢️ Databases & Messaging  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
+</p>
+
+- PostgreSQL, MongoDB  
+- Redis (Caching, Pub/Sub)  
+- Kafka (Event-driven architecture)  
+
+---
+
+### ☁️ Cloud & DevOps  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins" />
+</p>
+
+- AWS & Azure deployments  
+- CI/CD pipelines  
+- Docker & Kubernetes  
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aganano-joshua&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aganano-joshua&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aganano-joshua&theme=radical" />
+</p>
+
+---
+
+## 🚧 What I'm Working On  
+
+- ⚡ Event-driven microservices (Spring Boot + Kafka)  
+- 🤖 AI-powered systems  
+- 📱 Cross-platform mobile apps  
+- 🧠 Real-time scalable architectures  
+
+---
+
+## 🎯 Focus  
+
+- System design & scalability  
+- Real-time architectures  
+- AI integration into products  
+- Clean, maintainable engineering  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: **agananojoshua001@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/joshua-aganano-b4aa2435a  
+- 🧑‍💻 GitHub: https://github.com/aganano-joshua  
+
+---
+
+## 💭 Philosophy  
+
+> **"Build systems that outlive you. Learn faster than the industry evolves."**
+
+---
+
+## 🔥 Optional Add-ons  
+
+```markdown
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=aganano-joshua&color=blue" />
+
+<!-- Contribution Snake -->
+<img src="https://github.com/aganano-joshua/aganano-joshua/blob/output/github-contribution-grid-snake.svg" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganano-joshua&layout=compact&theme=radical" />
