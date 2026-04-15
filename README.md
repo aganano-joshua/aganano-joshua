@@ -59,7 +59,9 @@ I don’t just write code — I design systems that **scale, perform, and solve 
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-- TensorFlow  
+- TensorFlow
+- Google colab
+- Hugging face  
 - Data processing & model integration  
 - Real-time inference systems  
 
